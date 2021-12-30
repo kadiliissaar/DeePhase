@@ -3,6 +3,7 @@
 DeePhase predicts the propensity of proteins to undergo homotypic liquid-liquid phase separation (LLPS).
 
 The repository includes the code associated with the paper "Learning the molecular grammar of protein condensates from sequence determinants and embeddings" (Saar et al. 2021, PNAS).
+
 NB! If you are interested in using the predictor only, you can find all the relevant code in the "PREDICT" directory.
 
 
